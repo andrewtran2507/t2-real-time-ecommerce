@@ -30,11 +30,16 @@ $ Realtime
 
 ###$ Node v16.13.0
 
+## Video
+[Video demo link](https://github.com/andrewtran2507/t2-real-time-ecommerce/blob/main/v-demo/video-demo.webm?raw=true)
+```bash
+https://github.com/andrewtran2507/t2-real-time-ecommerce/blob/main/v-demo/video-demo.webm
+```
 
 ## Schema
+![Screenshot](https://github.com/andrewtran2507/t2-real-time-ecommerce/blob/main/t2-real-time-ecommerce-BE/src/database/schema/schema-t2-shop.png?raw=true)
 
-
-## Video
+![My Remote Image](https://github.com/andrewtran2507/t2-real-time-ecommerce/blob/main/t2-real-time-ecommerce-BE/src/database/schema/table-list.png?raw=true)
 
 ## Stay in touch
 
