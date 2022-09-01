@@ -1,0 +1,32 @@
+input[type="radio"] {
+  display: none;
+}
+input[type="radio"] + label {
+  color: #333;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+}
+input[type="radio"] + label span {
+  display: flex;
+  justify-content: center;
+  width: 23px;
+  height: 23px;
+  margin: -1px 4px 0 0;
+  vertical-align: middle;
+  cursor: pointer;
+  border-radius: 50%;
+  border: 2px solid #ffffff;
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.33);
+  background-repeat: no-repeat;
+  background-position: center;
+  text-align: center;
+}
+input[type="radio"] + label img {
+  width: 50%;
+  opacity: 0;
+  transition: all 0.3s ease;
+}
+
+input[type="radio"]:checked + label span img {
+  opacity: 1;
+}
