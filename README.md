@@ -1,6 +1,7 @@
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript repository.
+-
 [Create react app] framework TypeScript repository.
 
 ## Stack BE
@@ -14,7 +15,10 @@ $ JWT
 $ Passport
 $ SocketIO
 ```
+
 ## Stack FE
+
+```bash
 $ Create react app
 $ TypeScript
 $ ReactStrap
@@ -22,31 +26,15 @@ $ ReduxToolkit
 $ SocketIO-Client
 $ Ag-Grid table
 $ Realtime
-
-$ Node v16.13.0
-
-
-## Installation
-
-```bash
-$ yarn install
-
-$ yarn db:drop && yarn db:create
-
 ```
 
-## Running the app
+###$ Node v16.13.0
 
-```bash
-# development
-$ yarn start
 
-# watch mode
-$ yarn start:dev
+## Schema
 
-# production mode
-$ yarn start:prod
-```
+
+## Video
 
 ## Stay in touch
 
