@@ -1,8 +1,6 @@
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript repository.
--
-[Create react app] framework TypeScript repository.
+A Real-time Ecommerce Web APP
 
 ## Stack BE
 
@@ -44,7 +42,3 @@ https://github.com/andrewtran2507/t2-real-time-ecommerce/blob/main/v-demo/video-
 ## Stay in touch
 
 - Author - Andrew.Tran
-
-## License
-
-Nest is [MIT licensed](LICENSE).
